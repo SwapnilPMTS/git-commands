@@ -73,3 +73,6 @@ pwd       						Present working Dir
 ******
 to ignore same extation file insert *.[file extention] in the .ignore file
 
+updated list from test branch
+
+
